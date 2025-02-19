@@ -1,0 +1,27 @@
+
+.drug-interactions{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-bottom: 15vh;
+    position: relative;
+    align-items: center; 
+    justify-content: center;  
+    text-align: center;  
+    /* background-color: #0f1a34; */
+}
+.drug-interactions h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.drug-interactions p {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 600px; /* ✅ Restrict width for better readability */
+    text-align: center;  
+
+}
+

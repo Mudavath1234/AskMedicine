@@ -1,0 +1,9 @@
+.main-content {
+    flex: 1; /* ✅ Makes sure Main takes full available space */
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    width: calc(100vw - 250px); 
+    /* ✅ Subtract Sidebar width */
+}
+
