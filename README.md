@@ -31,14 +31,6 @@ AskMedicine is a responsive single-page React application built with Vite, focus
 - Node.js (v18 or higher recommended)
 - npm or yarn
 
-📌 Future Enhancements
-🔍 Implement AI API integration for prompt processing
-
-👨‍⚕️ Dynamic content in About, Guidelines, and Drug Interactions
-
-🗂️ Improve prompt history storage with localStorage or backend
-
-🛡️ User Authentication with real login/signup logic
 
 ### Installation
 
@@ -60,4 +52,10 @@ yarn dev
 Open in browser
 
 Visit http://localhost:5173
+
+📌 Future Enhancements
+🔍 Implement AI API integration for prompt processing
+👨‍⚕️ Dynamic content in About, Guidelines, and Drug Interactions
+🗂️ Improve prompt history storage with localStorage or backend
+🛡️ User Authentication with real login/signup logic
 
