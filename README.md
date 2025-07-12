@@ -13,22 +13,6 @@ AskMedicine is a responsive single-page React application built with Vite, focus
 
 ---
 
-## 📁 Project Structure
-
-src/
-├── assets/ # All image/icon assets
-├── components/
-│ ├── About/ # About component
-│ ├── Guidelines/ # Guidelines component
-│ ├── DrugInteractions/ # Drug Interactions component
-│ ├── Main/ # Main homepage functionality
-│ └── Sidebar/ # Sidebar with recent chats & navigation
-├── context/
-│ └── context.js # React Context for state and prompts
-├── App.jsx # Main App routing
-└── main.jsx # Vite entry point
----
-
 ## 🚀 Features
 
 - 🧠 Context-based chat prompt system
@@ -46,6 +30,15 @@ src/
 
 - Node.js (v18 or higher recommended)
 - npm or yarn
+
+📌 Future Enhancements
+🔍 Implement AI API integration for prompt processing
+
+👨‍⚕️ Dynamic content in About, Guidelines, and Drug Interactions
+
+🗂️ Improve prompt history storage with localStorage or backend
+
+🛡️ User Authentication with real login/signup logic
 
 ### Installation
 
